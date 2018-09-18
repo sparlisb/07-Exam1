@@ -452,14 +452,14 @@ def problem1c(m):
            and 11 + 13 + 17 + 19 = 60.
      """
     ############################################################################
-    # TODO: 4. Implement and test this function.  See the IMPORTANT NOTE below!
+    # done: 4. Implement and test this function.  See the IMPORTANT NOTE below!
     #          Tests have been written for you (above).
     ############################################################################
-    # TODO (continued): IMPORTANT NOTE:
-    # TODO (continued):   This problem is 1 point (of 100) on the exam.
-    # TODO (continued)    Do not spend more than a few minutes on it.
-    # TODO (continued)    You get   NO credit   if your solution is more
-    # TODO (continued)    than 3 lines of code (and it can be done in 1 line).
+    # done (continued): IMPORTANT NOTE:
+    # done (continued):   This problem is 1 point (of 100) on the exam.
+    # done (continued)    Do not spend more than a few minutes on it.
+    # done (continued)    You get   NO credit   if your solution is more
+    # done (continued)    than 3 lines of code (and it can be done in 1 line).
     ############################################################################
     total = 0
     for k in range(9):

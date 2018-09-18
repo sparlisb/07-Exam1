@@ -74,11 +74,7 @@ def problem3(point, length, delta, window):
               The 2nd, 5th, 8th, etc rg.Lines have color 'cyan'
               The 3rd, 6th, 9th, etc rg.Lines have color 'spring green'
 
-
-      :type length:  int
-      :type delta:   int
-      :type window:  rg.RoseWindow
-    """      NOTE: The NUMBER of lines to draw is determined by the facts that:
+      NOTE: The NUMBER of lines to draw is determined by the facts that:
         -- The vertical line has the given length.
         -- All horizontal lines have their left endpoint on the vertical line.
         -- The distance between horizontal lines is the given delta.
@@ -87,6 +83,10 @@ def problem3(point, length, delta, window):
 
     Type hints:
       :type point:   rg.Point
+      :type length:  int
+      :type delta:   int
+      :type window:  rg.RoseWindow
+    """
     # --------------------------------------------------------------------------
     # done: 2. Implement and test this function.
     # done (continued):  IMPORTANT: Use this ITERATIVE ENHANCEMENT PLAN:
